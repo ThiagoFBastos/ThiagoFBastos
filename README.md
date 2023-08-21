@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning NodeJS, Selenium, BeautifulSoup, Python, Javascript
   
 ## Status
-  ![Status](https://github-readme-stats.vercel.app/api?username=ThiagoFBastos)
+  ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
   
 ## Linguagens
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFBastos&layout=compact)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofbastos&layout=compact)
 
 ## Habilidades
 
