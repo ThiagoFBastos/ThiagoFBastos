@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NodeJS, Selenium, BeautifulSoup, Python, Javascript
+- 🌱 I’m currently learning NodeJS, Python, Javascript
   
 ## Status
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
