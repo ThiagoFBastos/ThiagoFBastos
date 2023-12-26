@@ -13,7 +13,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
-  
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript) 
+
 
 ## Conecte-se comigo
 
