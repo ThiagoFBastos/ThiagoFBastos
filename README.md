@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Sou técnico em desenvolvimento de sistemas pelo Colégio Pedro II e bacharel em ciência da computação pela UFRRJ e atualmente programo em: C/C++, Javascript, Python, C# e tenho conhecimentos em SQL
+- 🌱 Técnico em Desenvolvimento de Sistemas pelo Colégio Pedro II e Bacharel em Ciência da Computação pela UFRRJ. Atualmente desenvolvo aplicações com: C/C++, Python, Javascript, C# e SQL. Sou apaixonado por programação competitiva que é uma esporte mental no qual os praticadores resolvem desafios lógicos e matemáticos com programação.
   
 ## Status
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
