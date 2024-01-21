@@ -13,8 +13,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
-![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript) 
-
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Conecte-se comigo
 
