@@ -24,6 +24,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/thiago_bastos)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Mr.%20Roboto)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/far_from_tle)
+[![AtCoder Rating of @thiago_bastos](https://atrating.baoshuo.dev/rating?username=thiago_bastos&style=for-the-badge)](https://atcoder.jp/users/thiago_bastos)
 
 ## Minhas contribuições
  
