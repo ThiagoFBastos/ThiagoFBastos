@@ -7,7 +7,7 @@
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
   
 ## Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFBastos&layout=pie)](https://github.com/ThiagoFBastos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFBastos&layout=pie)
 
 ## Habilidades
 
