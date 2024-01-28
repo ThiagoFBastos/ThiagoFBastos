@@ -40,4 +40,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=closest-string-problem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/closest-string-problem)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=3-admissibility&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/3-admissibility) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=tic_tac_toe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/tic_tac_toe)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=SOS-Board-Game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/SOS-Board-Game) 
