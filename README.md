@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo Colégio Pedro II e Bacharel em Ciência da Computação pela UFRRJ.
-- 👀 Atualmente desenvolvo aplicações com: C/C++, Python, Javascript, C# e SQL. Além disso, estou tentanto aprender django.
+- 👀 Atualmente desenvolvo aplicações com: C/C++, Python, Javascript, C# e SQL.
+- 👉 No momento estou tentando aprender django e nodejs.
   
 ## Status
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
