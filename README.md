@@ -20,21 +20,3 @@
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiago-bastos-845a691a6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagobastos1705@gmail.com)
-
-## Minhas contribuições
- 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=Linkedin-BOT&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ThiagoFBastos/Linkedin-BOT)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=Repo-Code&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/Repo-Code)
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=programacao-competitiva&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/programacao-competitiva)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=TodoList&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/TodoList)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=closest-string-problem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/closest-string-problem)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=tic_tac_toe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/tic_tac_toe)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagofbastos&repo=SOS-Board-Game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagofbastos/SOS-Board-Game) 
