@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 Atualmente, estou me especializando como desenvolvedor backend, aprimorando minhas habilidades diariamente em C#, Typescript/Javascript, Python e SQL.
+- 🎓 Atualmente, estou me especializando como desenvolvedor C++
   
 ## Status
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
