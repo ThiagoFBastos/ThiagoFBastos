@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🎓 Atualmente, estou me especializando como desenvolvedor C++
+- 📒 Atualmente, estou me especializando como desenvolvedor C++
+- 🌿Tenho interesse em: Algoritmos de Otimização, Programação Backend e IA
   
 ## Status
   ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
