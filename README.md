@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📒 Atualmente, estou me especializando como desenvolvedor C++
-- 🌿Tenho interesse em: Algoritmos de Otimização, Programação Backend e IA
+- 🌿Tenho interesse em: Programação Backend, Machine Learning, Algoritmos Heurísticos, e NLP
 - 🌱No momento estou estudando: C++ e Asp .NET Core
   
 ## Status
