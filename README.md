@@ -5,7 +5,7 @@
 - 🌱No momento estou estudando: C++ e Asp .NET Core
   
 ## Status
-  ![Status](https://github-readme-stats.vercel.app/api?username=thiagofbastos)
+  ![Statys](https://github-readme-stats.vercel.app/api?username=thiagofbastos&show_icons=true&theme=radical)
   
 ## Linguagens
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFBastos&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
