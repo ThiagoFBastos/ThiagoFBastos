@@ -2,7 +2,7 @@
 
 - 📒 Atualmente, estou me especializando como desenvolvedor C++
 - 🌿Tenho interesse em: Programação Backend, Machine Learning, Algoritmos Heurísticos, e NLP
-- 🌱No momento estou estudando: C++ e Asp .NET Core
+- 🌱No momento estou estudando: C++, Rust e Asp .NET Core
   
 ## Status
   ![Statys](https://github-readme-stats.vercel.app/api?username=thiagofbastos&show_icons=true&theme=radical)
@@ -16,13 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-# Bibliotecas e Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-# Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # Programação Competitiva
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/far_from_tle)
