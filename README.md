@@ -2,7 +2,7 @@
 
 - 📒 Atualmente, estou me especializando como desenvolvedor C++
 - 🌿Tenho interesse em: Programação Backend, Machine Learning, e NLP
-- 🌱No momento estou estudando: C++ e Rust
+- 🌱No momento estou estudando: Rust
   
 ## Status
   ![Statys](https://github-readme-stats.vercel.app/api?username=thiagofbastos&show_icons=true&theme=radical)
