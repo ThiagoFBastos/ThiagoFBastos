@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📒 Atualmente, atuo como desenvolvedor <b>C++</b>
-- 🌱No momento estou estudando: <b>Rust</b>
+- 🌱No momento estou estudando: <b>Rust</b> e <b>Go</b>
   
 ## Status
   ![Statys](https://github-readme-stats.vercel.app/api?username=thiagofbastos&show_icons=true&theme=radical)
