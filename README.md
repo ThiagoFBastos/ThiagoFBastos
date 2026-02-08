@@ -2,12 +2,6 @@
 
 - 📒 Atualmente, atuo como desenvolvedor <b>C++</b>
 - 🌱No momento estou estudando: <b>Rust</b> e <b>Go</b>
-  
-## Status
-  ![Statys](https://github-readme-stats.vercel.app/api?username=thiagofbastos&show_icons=true&theme=radical)
-  
-## Linguagens
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFBastos&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 ## Linguagens 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
